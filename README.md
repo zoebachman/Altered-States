@@ -26,7 +26,7 @@ Participants will need to bring their own laptop to the workshop with Unity and 
 * Create a Unity Account.
 
 ### Installing Vuforia
-* Download here: https://developer.vuforia.com/downloads/sdk
+* Download [here](https://developer.vuforia.com/downloads/sdk)
 * Click “Download Unity Extension (legacy)”
 
 ## Workshop Schedule
