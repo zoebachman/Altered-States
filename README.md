@@ -20,13 +20,14 @@ In this Fact Craft workshop, we will work specifically with augmented reality (A
 Participants will need to bring their own laptop to the workshop with Unity and Vuforia installed. A limited number of computers will be available on site.
 
 ### Installing Unity
-* Download here: https://unity3d.com/get-unity/download/archive?_ga=2.158665722.1500404532.1505672232-2049739700.1505672232
-* Click “Unity 5.6.3” (note: this is an older version of Unity that works with the Vuforia SDK. Unity 2017.2 is in beta and has a Vuforia extension built-in)
+* Download Unity [here](https://unity3d.com/get-unity/download/archive?_ga=2.158665722.1500404532.1505672232-2049739700.1505672232)
+* Make sure you select “Unity 5.6.3” (note: this is an older version of Unity that works with the Vuforia SDK. Unity 2017.2 is in beta and has a Vuforia extension built-in)
+* During the installation walk-through, make sure Android support is selected from “Components” (It should be auto-selected).
+* Create a Unity Account.
 
 ### Installing Vuforia
 * Download here: https://developer.vuforia.com/downloads/sdk
-* Click “Download Unity Extension (legacy)” (note: Unity 2017 will be using a new editor)
-
+* Click “Download Unity Extension (legacy)”
 
 ## Workshop Schedule
 
