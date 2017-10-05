@@ -91,7 +91,9 @@ Feel free to add to this list!
 * Lapse
 
 
-### AR/MR and locative Media
+### Additional reading
+* http://www.e-flux.com/journal/56/60343/on-art-activism/
+
 * http://www.tandfonline.com/doi/abs/10.1080/1369118X.2014.989252?journalCode=rics20&
 
 * https://link.springer.com/chapter/10.1007/978-3-319-06203-7_1/fulltext.html
