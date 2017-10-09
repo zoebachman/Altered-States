@@ -2,10 +2,12 @@
 
 Part of the [Fact Craft](http://pioneerworks.org/fact-craft-2/) workshop series organized by [Pioneer Works](pioneerworks.org).
 
-* **Location:** [Pioneer Works](http://pioneerworks.org)
+* **Location:** Pioneer Books, part of [Pioneer Books](http://pioneerworks.org)
 * **When:** SUN, OCT 15, 1-5PM and WED, OCT 18, 7-9PM
 * **Instructors:**
+
    [Zoe Bachman](http://zoebachman.net), [zoe.bachman@gmail.com](mailto:zoe.bachman@gmail.com)
+
    [Becca Ricks](http://beccaricks.com/), [baricks@gmail.com](mailto:zbaricks@gmail.com)
 
 ## Workshop Description
@@ -34,16 +36,16 @@ Participants will need to bring their own laptop to the workshop with Unity and 
 ### Class One
 #### Sunday, October 15th, 1-5PM
 
-**1 - 1:10 pm**
+**1 - 1:15 pm**
 Introductions - who we are
 
-**1:10 - 2:10pm**
+**1:15 - 2:30pm**
 Presentation/Discussion
 
-**2:10 - 2:40pm**
-TBD
+**2:30 - 2:45pm**
+BREAK
 
-**2:40 - 4pm**
+**2:45 - 4pm**
 Introduction to Unity & Vuforia
 
 **4 - 5pm**
