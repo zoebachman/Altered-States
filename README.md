@@ -2,7 +2,7 @@
 
 Part of the [Fact Craft](http://pioneerworks.org/fact-craft-2/) workshop series organized by [Pioneer Works](pioneerworks.org).
 
-* **Location:** Pioneer Books, part of [Pioneer Books](http://pioneerworks.org)
+* **Location:** Pioneer Books, part of [Pioneer Works](http://pioneerworks.org)
 * **When:** SUN, OCT 15, 1-5PM and WED, OCT 18, 7-9PM
 * **Instructors:**
 
