@@ -5,8 +5,8 @@ Part of the [Fact Craft](http://pioneerworks.org/fact-craft-2/) workshop series 
 * **Location:** [Pioneer Works](http://pioneerworks.org)
 * **When:** SUN, OCT 15, 1-5PM and WED, OCT 18, 7-9PM
 * **Instructors:**
-⋅⋅⋅[Zoe Bachman](http://zoebachman.net), [zoe.bachman@gmail.com](mailto:zoe.bachman@gmail.com)
-⋅⋅⋅[Becca Ricks](http://beccaricks.com/), [baricks@gmail.com](mailto:zbaricks@gmail.com)
+   [Zoe Bachman](http://zoebachman.net), [zoe.bachman@gmail.com](mailto:zoe.bachman@gmail.com)
+   [Becca Ricks](http://beccaricks.com/), [baricks@gmail.com](mailto:zbaricks@gmail.com)
 
 ## Workshop Description
 **Whose stories dominate urban memory? Who is “allowed” to participate in the process of placemaking? How do we construct alternative modes of engaging with a public space?**
