@@ -36,17 +36,20 @@ Participants will need to bring their own laptop to the workshop with Unity and 
 ### Class One
 #### Sunday, October 15th, 1-5PM
 
-**1 - 1:15 pm**
+**1 - 1:30 pm**
 Introductions - who we are
 
-**1:15 - 2:30pm**
+**1:30 - 2:30pm**
 Presentation/Discussion
 
 **2:30 - 2:45pm**
 BREAK
 
-**2:45 - 4pm**
+**2:45 - 3:45pm**
 Introduction to Unity & Vuforia
+
+**3:45 - 4:00pm**
+Brainstorm and design exercise
 
 **4 - 5pm**
 Discussion about what people want to make for the next class.
@@ -90,7 +93,9 @@ Feel free to add to this list!
 * [No ads](http://noad-app.com/) - replaces subway advertisements with original artworks
 
 ### Public art
-* Lapse
+* [Lapse](https://www.artsy.net/article/artsy-editorial-this-augmented-reality-app-reveals-art-in-public-spaces)
+* [Snapchat with Jeff Koons](https://techcrunch.com/2017/10/02/snapchat-art/)
+* [Graffiti of Koons in AR](https://www.dezeen.com/2017/10/06/sebastian-errazuriz-uses-augmented-reality-to-vandalise-jeff-koons-balloon-dog-sculpture/)
 
 
 ### Additional reading
