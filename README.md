@@ -17,7 +17,7 @@ Locative media, or location-aware interactive environments or technologies, incl
 
 In this Fact Craft workshop, we will work specifically with augmented reality (AR) to layer multimedia on top of existing spaces. We will teach tactics for imagining alternative narratives as well as methods for critically observing and engaging with urban spaces. Over the course of two sessions, participants will learn how artists use a variety of mediums to augment and reclaim public space and how to create an AR piece that responds to and intervenes in a place of personal significance.
 
-* [Presentation Slides](https://docs.google.com/presentation/d/1oJn-j81375i-WZjdNRMoLseByj6iLHXRez5ii5cOWDk/edit?usp=sharing)
+* [Presentation Slides](https://docs.google.com/presentation/d/1ICKf6oTP4XstpzatYMGgtDvejFWBbDydVSY9T1n3h-Q/edit?usp=sharing)
 * [are.na channel](https://www.are.na/zoe-bachman/factcraft-ar-workshop)
 
 ## Installation Instructions
