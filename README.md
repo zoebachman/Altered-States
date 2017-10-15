@@ -17,9 +17,12 @@ Locative media, or location-aware interactive environments or technologies, incl
 
 In this Fact Craft workshop, we will work specifically with augmented reality (AR) to layer multimedia on top of existing spaces. We will teach tactics for imagining alternative narratives as well as methods for critically observing and engaging with urban spaces. Over the course of two sessions, participants will learn how artists use a variety of mediums to augment and reclaim public space and how to create an AR piece that responds to and intervenes in a place of personal significance.
 
+* [Presentation Slides](https://docs.google.com/presentation/d/1oJn-j81375i-WZjdNRMoLseByj6iLHXRez5ii5cOWDk/edit?usp=sharing)
 
 ## Installation Instructions
 Participants will need to bring their own laptop to the workshop with Unity and Vuforia installed. A limited number of computers will be available on site.
+
+* [Installation Slides](https://docs.google.com/presentation/d/1o1s5FRUYm0jo90y-sDrN7PcKr70qkrj7VUPwIahT5TM/edit?usp=sharing)
 
 ### Installing Unity
 * Download Unity [here](https://unity3d.com/get-unity/download/archive?_ga=2.158665722.1500404532.1505672232-2049739700.1505672232)
